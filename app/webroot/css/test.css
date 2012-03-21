@@ -1,0 +1,51 @@
+/* Used background image and background color */
+ body{background:url(images/bodybg.jpg) top repeat-x; } 
+ 
+ /* Div Containers */
+ .from_container, .buttons_container{
+ float:left;
+ margin: 10px;
+ }
+ 
+ .to_container{
+ float:left;
+ text-align: center;
+ margin: 10px 0px 10px 10px;
+ }
+ 
+ /* Div Container for Ascending and Descending icons */
+ .ascdes_container{
+ float:left;
+ margin: 10px 0px 0px 0px;
+ }
+ 
+ /* Styles for select box */
+ select {
+ width: 252px;
+ height: 187px;
+ *height: 175px; /* for IE Browers */
+ border:1px #000033 solid;
+ background-color:#b3d1fd;
+ padding: 5px;
+ }
+ 
+  /* Styles for select box */
+ #toSelectBox {
+ width: 224px;
+ height: 252px;
+ *height: 246px; /* for IE Browers */
+ border:1px #000033 solid;
+ background-color:#b3d1fd;
+ }
+ 
+ /* This is for img input */
+ input{outline:none;}
+ 
+ /* Whole main container which holds all div containers */
+ #container{
+ margin:0 auto;
+ padding:10px;
+ clear:both;
+ }
+ 
+ 

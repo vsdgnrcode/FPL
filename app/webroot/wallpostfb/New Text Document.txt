@@ -1,0 +1,331 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<title>37952 template preview</title>
+		<meta charset="utf-8">
+		<link href="css/style.css" rel="stylesheet">
+		<script src="js/script.js"></script>
+		<!--[if lt IE 9]>
+			<script type="text/javascript" src="js/html5.js"></script>
+		<![endif]-->
+		<!--[if lt IE 8]>
+			<div style=' clear: both; text-align:center; position: relative;'><a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode"><img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." /></a></div>
+		<![endif]--> 
+	</head>
+
+	<body>
+		<div id="spinner"></div>
+		<div id="wrapper">
+<!--header-->
+			<header>
+<!--logo-->
+					<h1><a href="#!/splash">synchronizer</a></h1>
+					<span>web design studio</span>
+			</header>
+
+			<div id = "main">
+<!--Splash Menu-->
+				<nav id="splashMenu">
+					<ul>
+						<li><a href="#!/splash">splash</a></li>
+						<li><a href="#!/news">news</a></li>
+						<li><a href="#!/about-studio">about studio</a></li>
+						<li><a href="#!/creative">creative</a></li>
+
+						<li><a href="#!/vision">vision</a></li>
+						<li><a href="#!/contact-us">contact us</a></li>
+					</ul>
+				</nav>
+<!--content-->
+				<section>
+					<ul>
+						<li id="splash"></li>
+
+<!--news page-->
+						<li id="news">
+							<div class="box_1">
+								<h2>latest works</h2>
+								<a rel="Appendix" href="images/image-blank.png" class="fancyBoxOver"><img src="images/page-2-img-1.jpg" alt=""></a>
+								<h3>Lorem ipsum dolor sit amet consectetueru</h3>
+								<p>consect uer cielesent vestib ulum molnummyenauris. Phasellus porta Fusce suscipit variumi. Cum sociis natoque gnis dis parturiees nasciculus mus Nulla dui. Fusce feugiat malesuada odicuctus a ecenas trist.</p>
+								<a class="read-more" href="#!/read-more">more</a>
+
+							</div>
+							<div class="box_1">
+								<a rel="Appendix" href="images/image-blank.png" class="fancyBoxOver marginTop"><img src="images/page-2-img-2.jpg" alt=""></a>
+								<h3>Vestibulum iaculis lacinia est Proint</h3>
+								<p>consect uer cielesent vestib ulum molnummyenauris. Phasellus porta Fusce suscipit variumi. Cum sociis natoque gnis dis parturiees nasciculus mus Nulla dui. Fusce feugiat malesuada odicuctus a ecenas trist.</p>
+								<a class="read-more" href="#!/read-more">more</a>
+							</div>
+
+							<div class="box_1 bgNone">
+								<a rel="Appendix" href="images/image-blank.png" class="fancyBoxOver marginTop"><img src="images/page-2-img-3.jpg" alt=""></a>
+								<h3>Sed ut perspiciatis unde omnis iste natus ersq</h3>
+								<p>consect uer cielesent vestib ulum molnummyenauris. Phasellus porta Fusce suscipit variumi. Cum sociis natoque gnis dis parturiees nasciculus mus Nulla dui. Fusce feugiat malesuada odicuctus a ecenas trist.</p>
+								<a class="read-more" href="#!/read-more">more</a>
+							</div>
+						</li>
+
+<!--about studio page-->
+						<li id="about-studio">
+							<div class="box_1">
+								<h2>our services</h2>
+								<ul>
+									<li><a href="#">Sed ut perspiciatis unde omnis iste natus</a></li>
+									<li><a href="#">error sit voluptatem accusa</a></li>
+									<li><a href="#">ntium doloremque laudantium totam</a></li>
+
+									<li><a href="#">rem aperiam eaque ipsa quae ab</a></li>
+									<li><a href="#">illo inventore veritatis</a></li>
+									<li><a href="#">tquasi architecto beatae vitae</a></li>
+									<li><a href="#">dicta sunt explicabo Nemo enim ipsam</a></li>
+									<li><a href="#">voluptatem quia voluptas sit aspe</a></li>
+									<li><a href="#">rnatur aut odit aut quia</a></li>
+
+								</ul>
+								<a class="read-more" href="#!/read-more">more</a>
+							</div>
+							<div class="box_2">
+								<h2>Why choose us?</h2>
+								<div class="box">
+									<img src="images/page-3-img-1.jpg" alt="">
+									<img src="images/page-3-img-2.jpg" alt="">
+
+									<img src="images/page-3-img-3.jpg" alt="">
+								</div>
+								<h3>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</h3>
+								<p>Quisque nulla. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae.</p>
+								<a class="read-more" href="#!/read-more">more</a>
+							</div>
+						</li>
+
+<!--creative page-->
+						<li id="creative">
+							<div class="box_1">
+								<h2>Our Mission</h2>
+								<img src="images/page-4-img-1.jpg" alt="">
+								<h3>Sed ut perspiciatis unde omnis iste sit voluptat</h3>
+								<p>consect uer cielesent vestib ulum molnummyenauris. Phasellus porta Fusce suscipit variumi. Cum sociis natoque gnis dis parturiees nasciculus mus Nulla dui Fusce feugiat malesuada odicuctus.</p>
+								<a class="read-more" href="#!/read-more">more</a>
+
+							</div>
+							<div class="box_1">
+								<h2>Twitter Posts</h2>
+								<div id="twitter"></div>
+								<a class="read-more" href="#">Join the Conversation</a>
+							</div>
+							<div class="box_1 bgNone">
+								<h2>Skill Set:</h2>
+
+								<ul>
+									<li>
+										<figure><img src="images/page-4-img-2.png" alt=""></figure>
+										<h3>Template Development </h3>
+										<p>consect uer cielesent vestib ulum molnumyCum sociis natoque gnis dis parturiees nascic mus Nulla dui. Fusce feugiat.</p>
+									</li>
+									<li>
+										<figure><img src="images/page-4-img-3.png" alt=""></figure>
+
+										<h3>Brand Identity </h3>
+										<p>Phasellus porta Fusce suspit variumCm socis natoque gnis dis.parturiees nasciculus mus Nulla dui. Fusce feugiat malesu.</p>
+									</li>
+									<li>
+										<figure><img src="images/page-4-img-4.png" alt=""></figure>
+										<h3>Video</h3>
+										<p>Cum sociis natoque gnis dis parturiees nascic ulus mus Nulla dui. Fusce feugiat malesuada oicuctus a ecenas trist.</p>
+
+									</li>
+								</ul>
+								<a class="read-more" href="#!/read-more">more</a>
+							</div>
+						</li>
+<!--vision page-->
+						<li id="vision">
+							<div class="box_1">
+								<h2>Pricing</h2>
+
+								<table><tr><td><a href="#">tquasi architecto beatae vitae</a></td><td class="dots"> </td><td>$250</td></tr></table>
+								<table><tr><td><a href="#">dicta sunt explicabo Nemo enim ipsame</a></td><td class="dots"> </td><td>$100</td></tr></table>
+								<table><tr><td><a href="#">voluptatem quia voluptas sit aspee</a></td><td class="dots"> </td><td>$380</td></tr></table>
+								<table><tr><td><a href="#">rnatur aut odit aut quiae</a></td><td class="dots"> </td><td>$226</td></tr></table>
+
+								<table><tr><td><a href="#">sed ut perspiciatis unde omnis iste natuse</a></td><td class="dots"> </td><td>$190</td></tr></table>
+								<table><tr><td><a href="#">error sit voluptatem accusae</a></td><td class="dots"> </td><td>$173</td></tr></table>
+								<table><tr><td><a href="#">ntium doloremque laudantium totame</a></td><td class="dots"> </td><td>$400</td></tr></table>
+								<table><tr><td><a href="#">rem aperiam eaque ipsa quae abe</a></td><td class="dots"> </td><td>$350</td></tr></table>
+
+								<table><tr><td><a href="#">illo inventore veritatise</a></td><td class="dots"> </td><td>$290</td></tr></table>
+								<a class="read-more" href="#!/read-more">more</a>
+							</div>
+							<div class="box_2">
+								<h2>Our Process </h2>
+								<div class="box">
+
+									<img src="images/page-5-img-1.jpg" class="marginRight" alt="">
+									<h3>Vestibulum libero nisl, porta vel, scelerisque eget</h3>
+									<p>consect uer cielesent vestib ulum molnummyenauris. Phasellus porta Fusce suscipit variumi. Cum sociis natoque gnis dis parturiees nasciculus mus Nulla dui. Fusce feugiat malesuada odicuctus a ecenas trist.</p>
+									<a class="read-more" href="#!/read-more">more</a>
+								</div>
+								<div class="box">
+									<img src="images/page-5-img-2.jpg" class="marginRight" alt="">
+
+									<h3>Sed ut perspiciatis unde omnis iste natus ersq</h3>
+									<p>consect uer cielesent vestib ulum molnummyenauris. Phasellus porta Fusce suscipit variumi. Cum sociis natoque gnis dis parturiees nasciculus mus Nulla dui. Fusce feugiat malesuada odicuctus a ecenas trist.</p>
+									<a class="read-more" href="#!/read-more">more</a>
+								</div>
+							</div>
+						</li>
+<!--contact us page-->
+						<li id="contact-us">
+
+							<div class="box_1">
+								<h2>Contact Form</h2>
+								<form id="form1">
+				  					<div class="success"> Contact form submitted!<br>
+										<strong>We will be in touch soon.</strong>
+							 		</div>
+							 		<fieldset>
+
+										<label class="name">
+										  	<input type="text" value="NAME:">
+										  	<span class="error">*This is not a valid name.</span> <span class="empty">*This field is required.</span> </label><br>
+										<label class="email">
+										  	<input type="email" value="E-MAIL:">
+										  	<span class="error">*This is not a valid email address.</span> <span class="empty">*This field is required.</span> </label><br>
+
+										<label class="state">
+										  	<textarea>MESSAGE:</textarea>
+										  	<span class="error">*The message is too short.</span> <span class="empty">*This field is required.</span> </label><br>
+										<br class="clear">
+										<div class="btns">
+											<a href="#" class="button upperCase read-more" data-type="reset">clear</a>
+
+											<a href="#" class="button upperCase read-more" data-type="submit">send</a>
+										</div>
+									</fieldset>
+								</form>
+							</div>
+							<div class="box_2">
+								<h2>How to Find Us</h2>
+								<figure class="google_map"></figure>
+
+								<h3>The Company Name Inc.</h3>
+								<p>
+									8901 Marmora Road,<br> 
+									Glasgow, D04 89GR.<br> 
+									<span class="col">Freephone:</span>+1 800 559 6580<br> 
+									<span class="col">Telephone:</span>+1 959 603 6035<br> 
+									<span class="col">FAX:</span>+1 504 889 9898<br> 
+									E-mail: <a href="mailto:">mail@demolink.org</a>
+
+								</p>
+								<p>
+									9863 - 9867 Mill Road,<br> 
+									Cambridge, MG09 99HT<br> 
+									<span class="col">Freephone:</span>+1 800 559 6580<br> 
+									<span class="col">Telephone:</span>+1 959 603 6035<br> 
+									<span class="col">FAX:</span>+1 504 889 9898<br> 
+									E-mail: <a href="mailto:">mail@demolink.org</a>
+
+									</p>
+								<ul>
+									<li><a href="#"><img src="images/social-icon-1.png" alt=""></a></li>
+									<li><a href="#"><img src="images/social-icon-2.png" alt=""></a></li>
+									<li><a href="#"><img src="images/social-icon-3.png" alt=""></a></li>
+									<li><a href="#"><img src="images/social-icon-4.png" alt=""></a></li>
+								</ul>
+									
+							</div>
+						</li>
+
+<!--privacy policy page-->
+						<li id="privacy-policy">
+							<div class="box_3">
+								<h2>privacy policy</h2>
+								<h3>Sed ut perspiciatis unde omnis iste natus Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante</h3>
+								<p>Quisque nulla. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. Donec in elit vel ipsum auctor pulvinar. Proin ullamcorper urna et felis. Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula.a magna Donec accumsan malesuada orci Donec sit amet eros Lorem ipsum dolor sit amet consectetuer adipiscing elit. </p>
+								<h3>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.</h3>
+
+								<p>bus eget elementum vel cursus eleifend elit. Aenean auctor wisi et urna. Aliquaerat volutpat. Duis ac turpis. Integer rutrum ante eu lacus.Vestibulum libero nisl porta vel scelerisque eget malesuada at neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna endrerit sit amet tincidunt ac viverra sed nulla. Donec porta diam eu massa. Quisque diam lorem interdum vitaedapibus ac scelerisque vitae pede. Donec eget tellus non erat lacinia fermentum. Donec in velit vel ipsum auctor pulvinar. Proin ullamcorper urna et felis.Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi aliquet sit amet euismod in. </p>
+								<a href="mailto:" class="upperCase">privacy@demolink.org</a>
+							</div>
+						</li>
+<!--read more page-->
+						<li id="read-more">
+							<div class="box_3">
+								<h2>lorem ipsum dolor</h2>
+
+								<h3>Sed ut perspiciatis unde omnis iste natus Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante</h3>
+								<p>Quisque nulla. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. Donec in elit vel ipsum auctor pulvinar. Proin ullamcorper urna et felis. Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula.a magna Donec accumsan malesuada orci Donec sit amet eros Lorem ipsum dolor sit amet consectetuer adipiscing elit. </p>
+								<h3>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</h3>
+								<p>bus eget elementum vel cursus eleifend elit. Aenean auctor wisi et urna. Aliquaerat volutpat. Duis ac turpis. Integer rutrum ante eu lacus.Vestibulum libero nisl porta vel scelerisque eget malesuada at neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna endrerit sit amet tincidunt ac viverra sed nulla. Donec porta diam eu massa. Quisque diam lorem interdum vitaedapibus ac scelerisque vitae pede. Donec eget tellus non erat lacinia fermentum. Donec in velit vel ipsum auctor pulvinar. Proin ullamcorper urna et felis.Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi aliquet sit amet euismod in. </p>
+							</div>
+						</li>
+<!--read more page-->
+
+						<li id="read-more-2">
+							<div class="box_3">
+								<h2>lorem ipsum dolor</h2>
+								<h3>Sed ut perspiciatis unde omnis iste natus Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante</h3>
+								<p>Quisque nulla. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. Donec in elit vel ipsum auctor pulvinar. Proin ullamcorper urna et felis. Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula.a magna Donec accumsan malesuada orci Donec sit amet eros Lorem ipsum dolor sit amet consectetuer adipiscing elit. </p>
+								<h3>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</h3>
+								<p>bus eget elementum vel cursus eleifend elit. Aenean auctor wisi et urna. Aliquaerat volutpat. Duis ac turpis. Integer rutrum ante eu lacus.Vestibulum libero nisl porta vel scelerisque eget malesuada at neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna endrerit sit amet tincidunt ac viverra sed nulla. Donec porta diam eu massa. Quisque diam lorem interdum vitaedapibus ac scelerisque vitae pede. Donec eget tellus non erat lacinia fermentum. Donec in velit vel ipsum auctor pulvinar. Proin ullamcorper urna et felis.Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi aliquet sit amet euismod in. </p>
+
+							</div>
+						</li>
+<!--read more page-->
+						<li id="read-more-3">
+							<div class="box_3">
+								<h2>lorem ipsum dolor</h2>
+								<h3>Sed ut perspiciatis unde omnis iste natus Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante</h3>
+								<p>Quisque nulla. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. Donec in elit vel ipsum auctor pulvinar. Proin ullamcorper urna et felis. Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula.a magna Donec accumsan malesuada orci Donec sit amet eros Lorem ipsum dolor sit amet consectetuer adipiscing elit. </p>
+
+								<h3>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</h3>
+								<p>bus eget elementum vel cursus eleifend elit. Aenean auctor wisi et urna. Aliquaerat volutpat. Duis ac turpis. Integer rutrum ante eu lacus.Vestibulum libero nisl porta vel scelerisque eget malesuada at neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna endrerit sit amet tincidunt ac viverra sed nulla. Donec porta diam eu massa. Quisque diam lorem interdum vitaedapibus ac scelerisque vitae pede. Donec eget tellus non erat lacinia fermentum. Donec in velit vel ipsum auctor pulvinar. Proin ullamcorper urna et felis.Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi aliquet sit amet euismod in. </p>
+							</div>
+						</li>
+					</ul>
+				</section>
+<!--Pages menu-->			
+				<nav id="pageMenu">
+					<ul>
+
+						<li><a href="#!/splash"><div>splash</div></a></li>
+						<li><a href="#!/news"><div>news</div></a></li>
+						<li><a href="#!/about-studio"><div>about studio</div></a>
+							<ul>
+								<li><a href="#!/read-more"><div>team</div></a></li>
+								<li><a href="#!/read-more-2"><div>news</div></a></li>
+
+								<li><a href="#!/read-more-3"><div>awards</div></a></li>
+							</ul>
+						</li>
+						<li><a href="#!/creative"><div>creative</div></a></li>
+						<li><a href="#!/vision"><div>vision</div></a></li>
+						<li><a href="#!/contact-us"><div>contact us</div></a></li>
+					</ul>
+
+				</nav>
+			</div>
+<!--footer-->
+			<footer>
+				synchronizer &copy; 2012 &bull; <a href="#!/privacy-policy">privacy policy</a>
+				<!--{%FOOTER_LINK} -->
+			</footer>
+
+		</div>	
+		<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7078796-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	</body>
+</html>

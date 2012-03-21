@@ -1,0 +1,20 @@
+.col1, .col2, .cols { float:left;}
+
+.col1{ 
+	width:272px;
+}
+
+.col2{
+	width: 585px;
+}
+
+.cols{
+	width: 825px;	
+}
+
+.google_map{
+    margin: 20px 20px 0 0;
+    width: 360px;
+    height: 305px;
+    background: #fff;
+}

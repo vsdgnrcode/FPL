@@ -1,0 +1,339 @@
+
+#searchbox {
+    border: 1px solid #555555;
+    padding: 3px;
+    width: 250px;
+}
+.form {
+    background: none repeat scroll 0 0 #E0F4F8;
+    overflow: hidden;
+    padding: 20px 20px 10px;
+    width: 580px;
+}
+.form p {
+    clear: both;
+    display: block;
+    float: left;
+    margin: 0 0 10px;
+}
+.form label {
+    color: #000000;
+    font: bold 0.9em Helvetica,Arial,sans-serif;
+    padding: 0 0 0 5px;
+}
+.form .w {
+    background: none repeat scroll 0 0 #D7EBEF;
+    clear: both;
+    color: #000000;
+    float: left;
+    font: bold 0.8em Helvetica,Arial,sans-serif;
+    overflow: hidden;
+    padding: 5px 5px 0;
+}
+.form .w span {
+    float: left;
+    padding: 0 0 5px;
+}
+.form .input {
+    border: 1px solid #A5C2C8;
+    color: #000000;
+    font: bold 16px Helvetiva,Arial,sans-serif;
+    margin: 0 0 5px;
+    padding: 5px;
+    width: 400px;
+}
+.form .w label {
+    padding: 0;
+}
+.Detail.button, .Detail.button:visited {
+    background-color: #5B74A8;
+    border-color: #29447E #29447E #1A356E;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    width: 33px;
+}
+.Detail.button:hover {
+    text-decoration: none;
+}
+.comment.button, .comment.button:visited {
+    background-color: #5B74A8;
+    border-color: #29447E #29447E #1A356E;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 3px;
+    margin-right: 4px;
+    text-align: center;
+    width: 60px;
+}
+.UIComposer_Box {
+	
+    border: 1px solid #DDD;
+    margin-left: auto;
+    margin-right: auto;
+    width: 484px;
+}
+#watermark {
+    padding: 6px;font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+}
+.commentBox {
+   /* background: #F2F2F2;*/
+    margin-left: 55px;
+    margin-top: 3px;
+    padding: 5px;
+    width: 400px;
+}
+.commentPanel {
+   /* background: #F2F2F2;*/
+    border-bottom: 1px solid #EEEEEE;
+    margin-left: 56px;
+    margin-top: 3px;
+    padding: 5px 3px 10px 5px;
+    width: 400px;
+	
+}
+.postedComments {
+    float: left;
+    font-size: 11px;
+    margin-left: 6px;
+    text-align: justify;
+    width: 290px;
+}
+.commentMark,.commentMarkDemo {
+    border: 1px solid #DDDDDD;
+    float: left;
+    font-size: 11px;font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+    margin-left: 5px;
+    width: 300px;
+}
+a.c_delete {
+    color: #8E0000;
+    font-size: 11px;
+}
+.friends_area {
+    border-bottom: 1px dotted #AAAAAA;
+    margin-left: 20px;
+    min-height: 60px;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    vertical-align: top;
+    width: 500px;
+
+}
+.top_area {
+    background: none repeat scroll 0 0 #627AAD;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 6px 6px 6px 12px;
+}
+.name b {
+    color: #8E0000;
+    cursor: pointer;
+    font-size: 14px;
+}
+.name {
+    color: #333333;
+    font-size: 13px;
+line-height: 1.4;
+    text-align: left;
+    width: 350px;
+}
+.name a{ text-decoration:none}
+a.delete {
+    -moz-background-inline-policy: continuous;
+    background: none repeat scroll 0 0 transparent;
+    border: 0 none;
+    color: #333333;
+    cursor: pointer;
+    display: none;
+    float: left;
+    font-family: 'Lucida Grande',Tahoma,Verdana,Arial,sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    margin: 0;
+    outline: medium none;
+    padding: 5px;
+    text-decoration: none;
+    white-space: nowrap;
+}
+a.delete:hover {
+    background: none repeat scroll 0 0 #EEEEEE;
+    border: 1px solid #B1B1B1;
+    opacity: 1;
+    padding: 5px;
+}
+.name a, .commentPanel a,.imagecomments a {
+    color: #8E0000;
+    font-size: 11px;
+    margin: 3px 3px 3px 0;
+}
+.name em {
+    color: #333333;
+    font-size: 11px;
+    font-style: normal;
+    width: 200px;
+}
+.name span {
+    color: #777777;
+    font-size: 11px;
+}
+a.more_records {
+    background: #66a3f4;
+border: 1px solid #29691D;
+color: white;
+	text-align:center;
+	width:95%;
+	padding: 8px;
+	display:block
+
+}
+.main_bar{background-color: #F2F2F2;}
+
+.confirm {
+background-repeat: no-repeat;
+background-position: 0 -294px;
+background-color: #5B74A8;
+border-color: #29447E #29447E #1A356E;
+}
+
+.uiButton{
+border: 1px solid #999;
+border-bottom-color: #888;
+-webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, .1);
+cursor: pointer;
+display: inline-block;
+font-size: 11px;
+font-weight: bold;
+line-height: 13px;
+margin-top:3px;
+margin-right:3px;
+padding:3px 4px;
+text-align: center;
+text-decoration: none;
+vertical-align: top;
+white-space: nowrap;
+border-image: initial;
+}
+
+.uiButton .uiButtonText, .uiButton input {
+background: none;
+border: 0;
+color: #fff;
+cursor: pointer;
+display: inline-block;
+font-family: 'Lucida Grande', Tahoma, Verdana, Arial, sans-serif;
+font-size: 11px;
+font-weight: bold;
+margin: 0;
+white-space: nowrap;
+border-image: initial;
+}
+.gi {
+font-size: 13px;
+line-height: 1.4;
+}
+.zx{ color: #8E0000;}
+.Ss {
+background-image: url(../expand.png);
+background-repeat: no-repeat;
+background-position: 0 5px;
+float: right;
+height: 7px;
+width: 8px;
+padding-top: 5px;
+}
+
+.gbutton {
+background: #66a3f4;
+opacity: .5;
+
+border: 1px solid #29691D;
+color: white;
+text-shadow: 0 1px rgba(0, 0, 0, 0.1);
+
+-webkit-border-radius: 2px;
+border-radius: 2px;
+cursor: default;
+font-size: 11px;
+font: normal 13px arial,sans-serif;
+font-weight: bold;
+text-align: center;
+height: 27px;
+line-height: 27px;
+min-width: 54px;
+outline: 0;
+padding: 0 8px;
+
+display: inline-block;
+}
+
+.gbuttonnew {
+background: white;
+border: 1px solid #DDD;
+border-top-color: #DDD;
+
+padding: 3px 9px 3px 3px;
+border-image: initial;
+}
+
+.box_shadow {
+width: 500px;
+min-height: 30px;
+margin: auto;
+padding: 30px 0;
+border: 5px solid white;
+position: relative;
+background: #F3F3F3;
+-moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.80);
+-webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.80);
+box-shadow: 0 0 4px rgba(0, 0, 0, 0.80);
+clear: both;
+border-image: initial;
+}
+.yx {
+background-color: #FBFBFB;
+border-bottom: 1px solid #E3E3E3;
+cursor: pointer;
+width:78%;
+padding: 8px;
+}
+
+.a-j, .a-j-v {
+cursor: pointer;
+outline: none;
+text-decoration: none;
+}
+
+.Ko {
+color: #999;
+overflow: hidden;
+text-overflow: ellipsis;
+white-space: nowrap;
+padding-left: 5px;
+position: relative;
+right: 5px;
+height: 1.4em;
+}
+.Ko {
+color: #999;
+white-space: nowrap;
+}
+.gi {
+font-size: 13px;
+line-height: 1.4;
+}
+
+
+.yx {
+cursor: pointer;
+}
+
+.attach_content2{margin-top:10px; width:420px;}
+#bottomMoreButton{
+	
+}
