@@ -1,5 +1,7 @@
 <?php
-
+/**
+added to repository
+*/
 class IndexController extends AppController {
 
     var $components = array("Cookie", "Email");
